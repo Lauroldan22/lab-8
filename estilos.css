@@ -1,0 +1,11 @@
+h1{
+    color:blue (42,165,98);
+    font: size 30px;
+}
+p{
+    color:brown (163,43,13);
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    border:2px solid royalblue (0,0,0,0.856);
+}
